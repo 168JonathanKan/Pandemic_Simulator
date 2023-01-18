@@ -1,6 +1,6 @@
 # Pandemic Simulator
 
-
+![Pandemic_Demo](https://user-images.githubusercontent.com/70300446/213284652-5b96bf7b-7454-4876-9868-817c8cfd0b0d.png)
 
 PyLogo is a Python implementation of elements of [NetLogo](https://ccl.northwestern.edu/netlogo/), made by https://github.com/RussAbbott/PyLogo.
 
